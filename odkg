@@ -1,7 +1,7 @@
 {
   "@context": {
       "@vocab": "http://schema.org/",
-      "@base": "http://odkg.sklarman.github.io/"
+      "@base": "http://odkg.world/"
   },
   "@id": "odkg",
   "@type": "CreativeWork",
