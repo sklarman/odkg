@@ -5,5 +5,6 @@
   },
   "@id": "odkg",
   "@type": "CreativeWork",
-  "name": "Open Decentralized Knowledge Graph"
+  "name": "Open Decentralized Knowledge Graph",
+  "description": "Open Decentralized Knowledge Graph is an initiative of freely sharing linked knowledge across the globe."
 }
