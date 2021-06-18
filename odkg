@@ -1,6 +1,6 @@
 {
   "@context": {
-      "@vocab": "http://schema.org",
+      "@vocab": "http://schema.org/",
       "@base": "http://odkg.sklarman.github.io/"
   },
   "@id": "odkg",
