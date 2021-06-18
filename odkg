@@ -1,0 +1,9 @@
+{
+  "@context": {
+      "@vocab": "http://schema.org",
+      "@base": "http://odkg.sklarman.github.io/"
+  },
+  "@id": "odkg",
+  "@type": "CreativeWork",
+  "name": "Open Decentralized Knowledge Graph"
+}
