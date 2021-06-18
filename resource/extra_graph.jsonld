@@ -1,0 +1,10 @@
+{
+    "@id": "_:extra_graph",
+    "rdfs:comment": "this is an extra context",
+    "@graph": [
+        {
+            "@id": "extra_entity",
+            "name": "extra entity name"
+        }
+    ]
+}

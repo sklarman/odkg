@@ -1,0 +1,10 @@
+{
+    "@graph": [
+        {
+            "@id": "resource/extra_graph.jsonld"
+        },
+        {
+            "@id": "odkg"
+        }
+    ]
+}
