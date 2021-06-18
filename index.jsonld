@@ -1,13 +1,4 @@
-{
-    "@context": {
-        "@base": "http://odkg.world/"
-    },
-    "@graph": [
-        {
-            "@id": "resource/extra_graph.jsonld"
-        },
-        {
-            "@id": "odkg"
-        }
-    ]
-}
+[
+    "resource/extra_graph.jsonld",
+    "odkg"
+]

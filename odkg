@@ -1,4 +1,5 @@
 {
+  "@context": "http://odkg.world/context.json",
   "@id": "odkg",
   "@type": "CreativeWork",
   "name": "Open Decentralized Knowledge Graph",
