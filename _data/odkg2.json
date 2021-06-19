@@ -1,8 +1,0 @@
-{
-  "@context": "context.json",
-  "@id": "",
-  "@type": "CreativeWork",
-  "name": "Open Decentralized Knowledge Graph",
-  "description": "Open Decentralized Knowledge Graph is an initiative of freely sharing linked knowledge across the globe.",
-  "seeAlso": "resource/extra_graph"
-}
