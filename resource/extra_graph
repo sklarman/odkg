@@ -1,7 +1,7 @@
 {
     "@context": "http://odkg.world/context.json",
     "@id": "",
-    "rdfs:comment": "this is an extra context",
+    "description": "This is an additional test context",
     "@graph": [
         {
             "@id": "#extra_entity",
