@@ -1,5 +1,5 @@
 {
-    "@context": "http://odkg.world/context.json",
+    "@context": "../context.json",
     "@id": "",
     "description": "This is an additional test context",
     "@graph": [
