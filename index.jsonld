@@ -1,5 +1,5 @@
 {
-    "@context": "context.json",
+    "@context": "context.jsonld",
     "seeAlso": [
         "resource/extra_graph",
         "odkg"
