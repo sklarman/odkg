@@ -1,4 +1,8 @@
-[
-    "resource/extra_graph.jsonld",
-    "odkg"
-]
+{
+    "@context": "context.json",
+    "seeAlso": 
+    [
+        "resource/extra_graph",
+        "odkg"
+    ]
+}
