@@ -1,5 +1,5 @@
 {
-    "@context": "../context.json",
+    "@context": "../context.jsonld",
     "@id": "",
     "description": "This is an additional test context",
     "@graph": [
