@@ -6,4 +6,4 @@ You store your data.
 
 You share your data. 
 
-ODKG connects it.
+We help you connected.
