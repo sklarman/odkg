@@ -1,6 +1,6 @@
 {
     "@context": "http://odkg.world/context.json",
-    "@id": "_:extra_graph",
+    "@id": "",
     "rdfs:comment": "this is an extra context",
     "@graph": [
         {
