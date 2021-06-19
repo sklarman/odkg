@@ -6,4 +6,4 @@ You store your data.
 
 You share your data. 
 
-We help you connected.
+We help you connect it.
