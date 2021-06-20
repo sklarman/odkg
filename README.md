@@ -1,4 +1,4 @@
-## Open Knowledge Graph
+## ODKG
 
 <!-- You own your data.
 
