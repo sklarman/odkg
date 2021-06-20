@@ -1,4 +1,4 @@
-## Communal Knowledge Graph
+## Open Knowledge Graph
 
 You own your data.
 
