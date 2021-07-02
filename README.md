@@ -11,7 +11,7 @@ You share your data.  -->
 
   <script type="application/ld+json">
  {
-  "@context": "context.jsonld",
+  "@context": "http://odkg.world/context.jsonld",
   "@id": "",
   "@type": "CreativeWork",
   "name": "Open Decentralized Knowledge Graph",
@@ -24,7 +24,7 @@ You share your data.  -->
 
 ```json
 {
-  "@context": "context.jsonld",
+  "@context": "http://odkg.world/context.jsonld",
   "@id": "",
   "@type": "CreativeWork",
   "name": "Open Decentralized Knowledge Graph",
